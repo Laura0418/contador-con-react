@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador-con-react/static/css/main.89591a9f.css",
+    "main.js": "/contador-con-react/static/js/main.269265aa.js",
+    "static/media/logo.png": "/contador-con-react/static/media/logo.8e05efd156db2f360ef6.png",
+    "index.html": "/contador-con-react/index.html",
+    "main.89591a9f.css.map": "/contador-con-react/static/css/main.89591a9f.css.map",
+    "main.269265aa.js.map": "/contador-con-react/static/js/main.269265aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89591a9f.css",
+    "static/js/main.269265aa.js"
+  ]
+}
